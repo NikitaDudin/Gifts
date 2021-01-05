@@ -20,7 +20,7 @@
     "@expo/vector-icons": "^10.0.3",
     "@react-native-community/async-storage": "react-native-community/async-storage",
     "@react-navigation/web": "^1.0.0-alpha.9",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "change-case": "^3.1.0",
     "expo": "^34.0.1",
     "expo-asset": "^6.0.0",
